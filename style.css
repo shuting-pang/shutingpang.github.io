@@ -83,14 +83,13 @@ nav a {
 }
 
 .portrait {
-  width: 185px;
-  height: 185px;
+  width: 190px;
+  height: 238px;
   object-fit: cover;
-  object-position: center 18%;
-  border-radius: 7px;
-  box-shadow: 0 1px 8px rgba(0,0,0,.12);
-  background: var(--soft);
+  object-position: center 25%;
+  border-radius: 6px;
 }
+
 
 h1 {
   font-size: 30px;
